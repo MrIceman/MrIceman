@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with a great team on an online gaming competition platform. My focus is on the backend
+- 🔭 I’m currently working with Go, Kotlin, AWS and Terraform
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on more system level projects
 - 🤔 I’m looking for help with low level Code
