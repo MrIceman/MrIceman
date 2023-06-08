@@ -7,8 +7,8 @@
 - 🌟 Specialization: Backend, DevOps / Cloud
 - 👴 Previously: Mobile developer
 
-- I'm an enthusiastic software engineer who always has side projects going on.
-- In my free time I enjoy writing Apps in Flutter (previously I developed for almost a decade android apps, professionally).
+- 🥰 I'm an enthusiastic software engineer who always has side projects going on.
+- 💙 In my free time I enjoy writing Apps in Flutter (previously I developed for almost a decade android apps, professionally).
 - 📚 I like reading books about programming (mostly theoretical books).
 - ⛹️‍♂️ Another hobby of mine is experimenting with languages, I've wrote some stuff in Rust and think it's a great language, though at this point my 
 language of choice is Go. Nothing beats its simplicity, compile and build times. 
