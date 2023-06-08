@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-## What do I work with professionally?
-- 👅 Languages: Go, Kotlin, Python, Dart, Java
+## Who are the heck are you?
+My name is Martin, I live in Germany and I was born on June 18th, 1993 in Hannover
+
+- 👅 Languages I mainly work with: Go, Kotlin, Python, Dart, Java
 - 🚒 Infrastructure: AWS (I ❤️ Serverless), Terraform, Kubernetes, Docker 
 - 🌟 Specialization: Backend, DevOps / Cloud
 - 👴 Previously: Mobile developer
