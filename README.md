@@ -17,9 +17,9 @@ language of choice is Go. Nothing beats its simplicity, compile and build times.
 
 **My latest thoughts about programming**
 - When I was a green horn, my first programming language I dedicated myself to was Java and I started studying OO concepts and software architecture & design,
-which is an experience that shifted me until this day, but lo and behold, today I think the domain of functional programming deserves more attention. 
+which is an experience that shaped me as a developer until this day, but lo and behold, today I think the domain of functional programming deserves more attention. 
 Writing truly declarative code  is an interesting concept I wish to explore further (not only for the UI of your clients, but for the whole system).
-I would like to see how it is to not write imperative code with mutable state updates, but have a formally provable code that consists of events, immutable state
-and functions that transform state.
+Not having code that imperatively mutates state, but having a for correctness provable and idempotent code that consists of events, immutable state
+and functions that transform the state, is actually a fun way to design your system.
 
 - ⚡ Fun fact: I write sometimes about Software Engineering https://medium.com/@martinnowosad
