@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## Who are the heck are you?
+## Who the heck are you?
 My name is Martin, I live in Germany and I was born on June 18th, 1993 in Hannover
 
 - 👅 Languages I mainly work with: Go, Kotlin, Python, Dart, Java
