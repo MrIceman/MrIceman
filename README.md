@@ -2,7 +2,7 @@
 
 
 ## About me
-My name is Martin, I live in Germany and I was born on June 18th, 1993 in Hannover
+My name is Martin, I live in Germany and I was born on June 18th, 1993 in Hannover. I'm the Founder and CEO of Nowocode (www.nowocode.de)
 
 - 👅 Languages I mainly work with: Go, Kotlin, Python, Dart, Java
 - 🚒 Infrastructure: AWS (I ❤️ Serverless), Terraform, Kubernetes, Docker 
